@@ -20,6 +20,12 @@
 
 5、使其可以用于315MHz、418MHz、430MHz、433MHz频率的PT2262遥控器
 
+<img src="assets/Screenshot-001.png">
+<img src="assets/Screenshot-002.png">
+<img src="assets/Screenshot-003.png">
+<img src="assets/Screenshot-004.png">
+<img src="assets/Screenshot-005.png">
+
 <h2>程序安装位置：</h2>
 
 <img src="assets/Install_Path.png">
@@ -39,3 +45,9 @@
 <h2>使用说明：</h2>
 长按上键打开设置选项，注意！键码的设置选项只有在PT2262里才有。
 
+<h2>特别感谢：</h2>
+
+<b>[天魔黑兔]</b>
+关于模块和射频遥控等技术给我提供了很多帮助。
+
+<img src="assets/Screenshot-006.png">
