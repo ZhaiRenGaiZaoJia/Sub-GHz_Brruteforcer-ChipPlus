@@ -1,4 +1,4 @@
-# Sub-GHz_Brruteforcer-ChipPlus 中文强化版
+# Sub-GHz_Brruteforcer(ChipPlus_V2) 中文强化版
 
 <h2>特别声明：</h2>
 
