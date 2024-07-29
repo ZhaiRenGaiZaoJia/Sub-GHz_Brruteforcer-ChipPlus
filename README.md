@@ -4,6 +4,10 @@
 
 <h3>本程序仅限用于个人学习研究，请勿用于其他目的，如用于其他目的，请后果自负，因此导致的后果和责任于本人无关。</h3>
 
+<h2>视频链接：</h2>
+
+[<img src="assets/video.png">](https://www.bilibili.com/video/BV1R1421k7s2)
+
 <h2>最新版本功能说明：</h2>
 
 程序基于Sub-GHz Brruteforcer 3.C版本修改
