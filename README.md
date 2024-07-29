@@ -59,12 +59,12 @@
 <img src="assets/Screenshot-006.png">
 
 ## ❤️ 资助开发
-如果你喜欢这个程序，请向身边的同好介绍它！如果你希望我能持续更新的话，可以考虑资助我。
+如果你喜欢这个固件，请向身边的同好介绍它！如果你希望我能持续更新的话，可以考虑资助我。
 
 > **[B站充电](https://space.bilibili.com/404214439)**: 可以包月充电，也可以自定金额充电(平台会收取一定费用)
 
-> **[支付宝](https://qr.alipay.com/a6x18955zxmede2gw5yac15)**: 资助金额不限(平台不收取手续费)
+> **微信**: 资助金额不限(平台不收取手续费)
 
-<img src="assets/a6x18955zxmede2gw5yac15.png">
+<img src="assets/weixin.png">
 
 **感谢你的资助！**
