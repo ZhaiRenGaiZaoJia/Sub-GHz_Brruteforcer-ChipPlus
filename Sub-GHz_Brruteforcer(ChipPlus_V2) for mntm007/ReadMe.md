@@ -1,4 +1,4 @@
-# Sub-GHz_Brruteforcer(ChipPlus_V2) for mntm003 中文强化版
+# Sub-GHz_Brruteforcer(ChipPlus_V2) for mntm007 中文强化版
 
 <h2>特别声明：</h2>
 
@@ -6,17 +6,15 @@
 
 <h2>V2版本说明：</h2>
 
-<img src="assets/subghz_bruteforcer(ChipPlus_V2).png">
 
-程序基于Sub-GHz Brruteforcer 3.C版本修改
+程序基于Sub-GHz Brruteforcer 3.D版本修改
 
-1、将PT2262支持的4个频率修从315MHz、330MHz、390MHz、433MHz修改更常见的315MHz、418MHz、430MHz、433MHz。
+1、该版本对功能细节进行了调整z。
 
-2、将默认发送间隔的Te值修改为更为常用的350。
+2、优化了发送周期等参数。
 
-<h2>程序安装位置：</h2>
+3、使用独立字库。
 
-<img src="assets/Install_Path.png">
 
 <h2>相关说明：</h2>
 

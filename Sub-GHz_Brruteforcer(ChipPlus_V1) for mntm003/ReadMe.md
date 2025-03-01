@@ -1,4 +1,4 @@
-# Sub-GHz_Brruteforcer(ChipPlus_V1) 中文强化版
+# Sub-GHz_Brruteforcer(ChipPlus_V1) for mntm003 中文强化版
 
 <h2>特别声明：</h2>
 
