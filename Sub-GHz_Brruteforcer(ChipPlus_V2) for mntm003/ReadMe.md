@@ -4,7 +4,7 @@
 
 <h3>本程序仅限用于个人学习研究，请勿用于其他目的，如用于其他目的，请后果自负，因此导致的后果和责任于本人无关。</h3>
 
-<h2>V2版本说明：</h2>
+<h2>Sub-GHz_Brruteforcer(ChipPlus_V2) for mntm003版本说明：</h2>
 
 <img src="assets/subghz_bruteforcer(ChipPlus_V2).png">
 
