@@ -10,7 +10,7 @@
 
 <h2>最新版本功能说明：</h2>
 
-程序基于Sub-GHz Brruteforcer 3.C版本修改
+程序基于Sub-GHz Brruteforcer 修改
 
 1、添加国内常见遥控芯片PT2262
 

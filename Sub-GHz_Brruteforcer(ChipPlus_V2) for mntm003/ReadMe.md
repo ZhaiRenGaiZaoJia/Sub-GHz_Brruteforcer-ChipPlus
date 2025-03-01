@@ -8,6 +8,7 @@
 
 <img src="assets/subghz_bruteforcer(ChipPlus_V2).png">
 
+程序基于Sub-GHz Brruteforcer 3.C版本修改
 
 1、将PT2262支持的4个频率修从315MHz、330MHz、390MHz、433MHz修改更常见的315MHz、418MHz、430MHz、433MHz。
 

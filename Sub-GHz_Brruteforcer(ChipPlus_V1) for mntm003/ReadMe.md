@@ -8,6 +8,7 @@
 
 <img src="assets/subghz_bruteforcer(ChipPlus_V1).png">
 
+程序基于Sub-GHz Brruteforcer 3.C版本修改
 
 1、添加国内常见遥控芯片PT2262
 
